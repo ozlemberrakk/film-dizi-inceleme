@@ -19,7 +19,7 @@ yarn-error.log*
 # Prisma migration klasörü
 /prisma/migrations/
 
-/public/uploads/
+
 
 
 # SQLite veritabanı dosyası
