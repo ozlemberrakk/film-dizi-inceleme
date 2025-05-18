@@ -38,7 +38,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 ### 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/film-dizi-inceleme.git
+git clone https://github.com/ozlemberrakk/film-dizi-inceleme.git
 cd film-dizi-inceleme
 ```
 
