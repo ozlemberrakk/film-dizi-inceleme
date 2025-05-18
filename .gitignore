@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Next.js build output
+.next/
+
+# Log dosyaları
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ortam değişkenleri dosyaları
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Prisma migration klasörü
+/prisma/migrations/
+
+/public/uploads/
+
+
+# SQLite veritabanı dosyası
+/dev.db
+
+# VSCode ayarları
+.vscode/
+
+# Mac sistem dosyaları
+.DS_Store
+
+# Windows sistem dosyaları
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
